@@ -24,4 +24,4 @@ knowledge_base = {
     ("corn", "gray_leaf_spot"): "Gray leaf spot causes rectangular gray-brown lesions on leaves. Apply a strobilurin-based fungicide. Practice crop rotation and avoid dense planting to improve air circulation.",
     ("corn", "northern_leaf_blight"): "Northern leaf blight causes long, cigar-shaped gray-green lesions. Apply fungicide at first sign of infection. Remove and destroy infected crop debris after harvest, and use resistant hybrids where possible.",
     ("cocoa", "healthy"): "No disease detected. Continue routine monitoring and standard field practices.",
-    ("cocoa", "black_pod_rot"): "Black pod rot causes dark, water-soaked lesions that spread across the pod. Remove and destroy infected pods immediately to prevent spread. Improve
+    ("cocoa", "black_pod_rot"): "Black pod rot causes dark, water-soaked lesions that spread across the pod. Remove and destroy infected pods immediately to prevent spread. Improve field drainage and avoid overhead irrigation to reduce humidity around plants.",
